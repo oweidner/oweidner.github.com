@@ -1,5 +1,4 @@
 document.write(" \
-<br><br>\
     <div id=\"footer\">\
       <div class=\"site\">\
 \
