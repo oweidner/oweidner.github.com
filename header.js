@@ -7,7 +7,7 @@ document.write(" \
       </div>-->\
 \
       <div class=\"actions\">\
-        <a href=\"/\">Home</a> <a href=\"/publications\">Publications</a> <a href=\"/projects\">Projects</a>\
+        <a href=\"index.html\">Home</a> <a href=\"/publications\">Publications</a> <a href=\"/projects\">Projects</a>\
       </div>\
     </div>\
   </div>\
