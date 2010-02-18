@@ -5,3 +5,10 @@
 #content.site {
   width: 59em;
 }
+
+p.first_p:first-letter 
+{
+color:#555555;
+font-size:5em;
+float: left;
+}
