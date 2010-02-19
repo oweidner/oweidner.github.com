@@ -7,6 +7,7 @@ document.write(" \
             <a href=\"http://cct.lsu.edu\">CCT</a> |\
             <a href=\"http://saga.cct.lsu.edu\">SAGA</a> |\
             <a href=\"http://oweidner.github.com/faust/\">FAUST</a> |\
+            <a href=\"identities.html\">Identities</a> |\
             <a href=\"contact.html\">Contact</a> \
           </div>\
           <div class=\"company\">\
